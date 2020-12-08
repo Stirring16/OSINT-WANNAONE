@@ -73,9 +73,9 @@
 
 * Ở giây thứ 5 xuất hiện 1 đường link khác: ```https://ibb.co/X3Jz752```
 
-![screenshoot](https://i.imgur.com/k8KnorU.png)
+![screenshoot](https://i.imgur.com/5Jspkr7.png)
 
-* Haha tới đây mình tốn khá nhiều thời gian và quay lại link trước đó xem dưới phần mô tả thì mình nhận ra đã bị lừa :D Tuyệt vời 1 đường link khác: 
+* Haha tới đây mình tốn khá nhiều thời gian để tìm kiếm thông tin nhưng không có gì và quay lại link trước đó xem dưới phần mô tả thì mình nhận ra đã bị lừa :D Tuyệt vời 1 đường link khác: 
 
 ```https://pasteboard.co/Jv0czTk.jpg```
 
@@ -86,12 +86,14 @@
 
 ![screenshoot](https://i.imgur.com/K1UFIME.png)
 
-* Ok tới đây thì hơi mệt vì bị lừa quá nhiều =)) lại thêm kha khá thời gian để tìm kiếm link này và quay lại link cũ tìm kiếm tiếp
+![screenshoot](https://i.imgur.com/3lRlAtK.png)
+
+* Ok tới đây thì hơi mệt vì bị lừa quá nhiều =)) lại thêm kha khá thời gian để tìm kiếm trên link này và quay lại link cũ tìm kiếm tiếp
 * Vào Profile của người up video vào phân About mình phát hiện có dấu flag được mã hóa ```CyberFLAG{ZGF5IGtob25nIHBoYWkgbGEgZmxhZyBkYXU=}```
 
 ![screenshoot](https://i.imgur.com/R6mnFdG.png)
 
-* Hahah nhưng không rất may mắn là mình đã phát hiện ra cú lừa của tác giả khi nhìn xuống phần ```Link``` chỉ có dấu chấm là điểm bất thường, click vào thử xem
+* Hahah nhưng không, rất may mắn là mình đã phát hiện ra cú lừa của tác giả khi nhìn xuống phần ```Link``` chỉ có dấu chấm là điểm bất thường, click vào thử xem
 
 ![screenshoot](https://i.imgur.com/e09jvcg.png) 
 
