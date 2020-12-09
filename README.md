@@ -11,7 +11,7 @@
 ![screenshoot](https://www.sentinelone.com/wp-content/uploads/2019/07/osint-fw.jpg)
 
 ## Một số dạng OSINT 
-* Thông tin OSINT bao gồm tất cả các nguồn thông tin được tiếp cận công khai. Những thông tin này có thể được thu thập một cách trực tuyến hoặc ngoại tuyến, bao gồm một số loại thông tin sau:
+Thông tin OSINT bao gồm tất cả các nguồn thông tin được tiếp cận công khai. Những thông tin này có thể được thu thập một cách trực tuyến hoặc ngoại tuyến, bao gồm một số loại thông tin sau:
 - Các bản ghi cơ sở dữ liệu công khai.
 
 - Các trang web, tài liệu, báo cáo của chính phủ.
@@ -35,8 +35,8 @@
 ![screenshoot](https://community99.com/wp-content/uploads/2020/10/ot-contrib-google.png)
 * [GooleDork](https://whitehat.vn/threads/gioi-thieu-google-dork.5629/) là một chức năng mà google cung cấp để việc tìm kiếm hiệu quả hơn. 
 ![screenshoot](https://geekflare.com/wp-content/uploads/2019/08/Capture3.png)
-* [Yandex Images]:Đối thủ của Google, Yandex là công cụ tìm kiếm cực kỳ phổ biến ở Nga và cung cấp cho người dùng các tùy chọn để tìm kiếm hàng nghìn hình ảnh trên internet. Tính năng rất giống với reverse-search của Google Images. Một tính năng khác rất tốt nữa là sắp xếp danh mục hình ảnh thông minh để kết quả tìm kiếm của bạn cụ thể và chính xác hơn.Theo kinh nghiệm mình làm thì kết quả tìm kiếm hình ảnh của Yandex nhiều và chính xác hơn Google
-![screenshoot](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1980%2F1*Y8qjzy8W8FjflJv6c9Z_Yg.png&imgrefurl=https%3A%2F%2Fmedium.com%2F%40natauyo%2Fwhat-is-reverse-image-search-yandex-definition-bac6ddc778af&tbnid=6Kbq8EncUM4aRM&vet=12ahUKEwjVj5iDzb_tAhXKFHIKHXMjA7gQMygDegUIARCmAQ..i&docid=WFLjWSMBVLTNvM&w=990&h=557&q=yandex%20image%20search&ved=2ahUKEwjVj5iDzb_tAhXKFHIKHXMjA7gQMygDegUIARCmAQ)
+* [Yandex Images](https://yandex.com/): Đối thủ của Google, Yandex là công cụ tìm kiếm cực kỳ phổ biến ở Nga và cung cấp cho người dùng các tùy chọn để tìm kiếm hàng nghìn hình ảnh trên internet. Tính năng rất giống với reverse-search của Google Images. Một tính năng khác rất tốt nữa là sắp xếp danh mục hình ảnh thông minh để kết quả tìm kiếm của bạn cụ thể và chính xác hơn.Theo kinh nghiệm mình làm thì kết quả tìm kiếm hình ảnh của Yandex nhiều và chính xác hơn Google
+![screenshoot](https://miro.medium.com/max/700/1*Y8qjzy8W8FjflJv6c9Z_Yg.png)
 * [Shodan](https://www.shodan.io/) cũng là một công cụ tìm kiếm như Google nhưng nó sẽ mang lại các kết quả ý nghĩa và liên quan đến bảo mật hơn. Tools OSINT này chủ yếu giúp nhà phân tích bảo mật xác định mục tiêu và kiểm tra các lỗ hổng, mật khẩu, dịch vụ, cổng khác nhau,.v.v.
 ![screenshoot](https://miro.medium.com/max/489/0*A0ikOtR7_yyMtfV6)
 * [Spyse](https://spyse.com/) cung cấp dữ liệu khổng lồ để khám phá mục tiêu thông qua các điểm vào khác nhau
@@ -152,11 +152,11 @@
 
 * Kiểm tra profile của ```Kiều Anh``` ta thấy ngay Flag
 
-# Flag: CyberSpace{**********}
+> ### Flag: CyberSpace{**********}
 
-Note: Để làm được bài này thì bạn cần ```Vui vẻ không quạo nha ``` chứ mình cũng hơi quạo :v
+* Note: Để làm được bài này thì bạn cần ```Vui vẻ không quạo nha ``` chứ mình cũng hơi quạo :v
 
-# Tổng kết
+> # Tổng kết
 
 * Kĩ năng Osint rất hữu ích cho tất cả mọi người để có thể chọn lọc thông tin tốt nhất có thể và tìm kiếm một cách nhanh nhất.
 * Bài viết này mình đã tham khảo từ tất cả các trang để có được một bài giới thiệu về hệ OSINT này cho các bạn. Hy vọng các bạn có thể cảm thấy hứng thú với OSINT khi đọc bài viết này. 
